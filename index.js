@@ -1,2 +1,2 @@
-let windowsVersion = "10.0.0";
+let windowsVersion = "10.1.0";
 console.log (windowsVersion);
